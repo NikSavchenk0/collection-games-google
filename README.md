@@ -1,2 +1,2 @@
 # collection-games-google
-is demo testing
+this is unoffical launcher games!
